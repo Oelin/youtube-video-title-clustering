@@ -1,2 +1,3 @@
-# youtube-video-title-clustering
-Semantic clustering of video titles from particular YouTubers.
+# YouTuber Clusters
+
+Semantic clustering of video titles from popular YouTubers.

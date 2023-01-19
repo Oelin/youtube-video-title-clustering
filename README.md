@@ -1,3 +1,3 @@
-# YouTuber Clusters
+# Nutshell
 
-Semantic clustering of video titles from popular YouTubers.
+Semantic clustering of video titles from the YouTube channel *In A Nutshell*.
